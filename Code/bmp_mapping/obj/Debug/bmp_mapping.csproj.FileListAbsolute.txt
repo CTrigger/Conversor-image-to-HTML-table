@@ -1,0 +1,6 @@
+c:\users\ricardo\documents\visual studio 2015\Projects\bmp_mapping\bmp_mapping\bin\Debug\bmp_mapping.exe.config
+c:\users\ricardo\documents\visual studio 2015\Projects\bmp_mapping\bmp_mapping\obj\Debug\bmp_mapping.csprojResolveAssemblyReference.cache
+c:\users\ricardo\documents\visual studio 2015\Projects\bmp_mapping\bmp_mapping\bin\Debug\bmp_mapping.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\bmp_mapping\bmp_mapping\bin\Debug\bmp_mapping.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\bmp_mapping\bmp_mapping\obj\Debug\bmp_mapping.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\bmp_mapping\bmp_mapping\obj\Debug\bmp_mapping.pdb
